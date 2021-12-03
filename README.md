@@ -2,7 +2,7 @@
 
 ## Часть 1
 
-Ноутбук: https://colab.research.google.com/drive/1RzW_YFp6mEfdQ_Kk2CbUejCdpGzAyoMB#scrollTo=FNDsGQf1ya1y
+Ноутбук: https://colab.research.google.com/drive/1RzW_YFp6mEfdQ_Kk2CbUejCdpGzAyoMB?usp=sharing
 
 Статистика из HISAT:
 
@@ -20,7 +20,7 @@
 
 ## Часть 2
 
-Ноутбук: https://colab.research.google.com/drive/1lv8SwvlkNMXaGaERPEVKa2KqRD2J_ldo#scrollTo=_2-uqlZR_yqq
+Ноутбук: https://colab.research.google.com/drive/1lv8SwvlkNMXaGaERPEVKa2KqRD2J_ldo?usp=sharing
 
 plotMA:
 
